@@ -10,3 +10,19 @@
 p {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Main Navigation */
+
+nav a {
+    color: #F00;
+}
+
+nav a:visited {
+    color: #F0F;
+}
+
+nav a:hover {
+    color: #00F;
+}
+
+
