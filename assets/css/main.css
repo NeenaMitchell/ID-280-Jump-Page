@@ -29,7 +29,8 @@ nav a:hover {
 /* Background Image */
 
 body{
-    background: url("../images/Background\ Image.jpg") repeat-y;
+    background-color: blueviolet;
+    background: url("../images/Background/ Image.jpg") repeat-y;
     background-size: cover;
     padding: 5%;
 }
