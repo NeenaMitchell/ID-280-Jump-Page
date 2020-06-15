@@ -31,4 +31,5 @@ nav a:hover {
 body{
     background: url("../images/Background\ Image.jpg") repeat-y;
     background-size: cover;
+    padding: 5%;
 }
