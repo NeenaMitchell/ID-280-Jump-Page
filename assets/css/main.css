@@ -5,11 +5,22 @@
 
 @import "vendors/normalize.css";
 @import url('https://fonts.googleapis.com/css2?family=Metal+Mania');
+@import url('"https://fonts.googleapis.com/css2?family=Berkshire+Swash');
 
+
+/* font-family: 'Metal Mania', cursive; */
+
+/* font-family: Berkshire Swash', cursive; */
 
 /* typography */
+
 p {
     font-family: 'Metal Mania', cursive;
+    div,
+    footer {
+    font-family: 'Metal Mania', cursive;
+    font-size: 1.2rem;
+}
 }
 
 /* Main Navigation */
