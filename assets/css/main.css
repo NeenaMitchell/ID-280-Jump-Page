@@ -3,7 +3,6 @@
 
 /* @import "vendor/reset.css;" */
 
-
 @import "vendors/normalize.css";
 
 /* typography */
@@ -15,6 +14,8 @@ p {
 
 nav a {
     color: #F00;
+    display: block;
+    padding: 0.6rem;
 }
 
 nav a:visited {
@@ -29,7 +30,7 @@ nav a:hover {
 /* Background Image */
 
 body{
-    background: url(../images/download-1.jpg);
+    background-image: url(../images/download-1.jpg);
     background-color: blueviolet;
     background-size: cover;
     padding: 5%;
